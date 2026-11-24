@@ -1,5 +1,5 @@
 const API_URL = "https://p3-api-productos-triz.onrender.com/api/productos";
-const API_KEY = "AndDavP3V"; // solo para la práctica
+const API_KEY = "AndDavP3"; // solo para la práctica
 
 const mensaje = document.getElementById("mensaje");
 const resultados = document.getElementById("resultados");
